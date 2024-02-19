@@ -1,11 +1,4 @@
 # Telegram-ChatGPT-BOT
-Requirements:
-  telebot
-  speechrecognition
-  whisper
-  python-docx
-  openai
-
 
 The program has several functions:
 1. Response to text messages: the program analyzes the text of the message and provides a corresponding response.
@@ -14,3 +7,10 @@ The program has several functions:
 4. Generating images from text: the program creates an image based on the text, using a specified font, size, and style.
 
 Thus, the program has diverse functionality, allowing it to process various types of messages and convert information from different formats.
+
+Requirements:
+  telebot
+  speechrecognition
+  whisper
+  python-docx
+  openai
